@@ -1,0 +1,2 @@
+# hadits
+resource hadist
